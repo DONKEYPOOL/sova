@@ -1,0 +1,12 @@
+{
+  "name": "SOVA - Systems Optimization Virtual Assistant",
+  "description": "Plataforma de inteligencia de ventas con razonamiento avanzado de Gemini y voz de alta fidelidad. Beta en IMP Assist y monitoreo ROI.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "AI Powered Reasoning",
+    "Real-time Voice Integration",
+    "Sales Analytics Dashboard"
+  ]
+}

@@ -1,2 +1,20 @@
-# sova
-To bring SOVA to life, we focused on building a bridge between advanced AI technology and the immediate needs of our community.  Our architecture centers on Google Cloud Agent Builder and the Gemini 2.5 API, which we selected for their ability to process audio tokens natively, eliminating the latency that usually makes automated voice interact.
+<div align="center">
+<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
+</div>
+
+# Run and deploy your AI Studio app
+
+This contains everything you need to run your app locally.
+
+View your app in AI Studio: https://ai.studio/apps/22710c64-5f2f-4c2b-b0f5-d56b2f3a96bc
+
+## Run Locally
+
+**Prerequisites:**  Node.js
+
+
+1. Install dependencies:
+   `npm install`
+2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
+3. Run the app:
+   `npm run dev`
